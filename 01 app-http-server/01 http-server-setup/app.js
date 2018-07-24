@@ -1,4 +1,4 @@
-// Importing http module from the node's inbuild package
+// Importing http module from the node's inbuild packages
 var http = require('http');
 
 // Creating a constant variable for port number
